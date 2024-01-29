@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    border: 1px;
+    border-style: solid;
+    border-color: cadetblue;
+    padding: 20px;
+    margin-top: 80px;
+    width: 320px;
+    height: 260px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    background-color: cornflowerblue;
+}
+
+.input{
+    outline: none;
+}

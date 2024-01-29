@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+    margin-right: 40px;  
+}
+
+.link{
+    font-size: 18px;
+    border-radius: 10px;
+    margin: 5px 10px;
+    padding: 6px;
+}
+
+.link:hover{
+    background-color:cornflowerblue;
+}
